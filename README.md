@@ -1,4 +1,5 @@
 # Обо мне
+![Screenshot_4](https://user-images.githubusercontent.com/99739699/191218256-1e182a92-2de2-4a5f-bcd6-3ab6f91f0235.png)
 
 Добрый день!
 
