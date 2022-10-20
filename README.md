@@ -1,9 +1,10 @@
 # Обо мне
-![Screenshot_4](https://user-images.githubusercontent.com/99739699/191218256-1e182a92-2de2-4a5f-bcd6-3ab6f91f0235.png)
+![Без имени-1](https://user-images.githubusercontent.com/99739699/196865280-47de04a0-0d77-43bd-b401-d73a6dcfb20f.png)
+
 
 Добрый день!
 
-Я, Требин Дмитрий Александрович, начинающий автотестировщик Java.
+Я, Требин Дмитрий Александрович, тестировщик ПО.
 
 # Контакты
 
