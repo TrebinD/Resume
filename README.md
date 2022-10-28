@@ -43,7 +43,5 @@
 * [GIT - система контроля версий](./pdf/Git.pdf)
 * [Java для тестровщиков](./pdf/Java_for_test.pdf)
 * [Автоматизированное тестирование](./pdf/Auto_Test.pdf)
-<<<<<<< HEAD
 * [SQL](.pdf/stepik-certificate-SQL.pdf)
-=======
->>>>>>> 5a3cf51881244a4e6b04b0ba60b6e8da854d70cc
+
