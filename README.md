@@ -45,3 +45,4 @@
 * [Автоматизированное тестирование](./pdf/Auto_Test.pdf)
 * [SQL](./pdf/stepik-certificate-SQL.pdf)
 
+
