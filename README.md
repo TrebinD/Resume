@@ -45,5 +45,8 @@
 * [Автоматизированное тестирование](./pdf/Auto_Test.pdf)
 * [SQL](./pdf/stepik-certificate-SQL.pdf)
 * [Тестирование ПО: Postman для тестирования API](./pdf/stepik-certificate-Postman.pdf)
+* [Phyton: курс для начичающих](./pdf/phyton_low.pdf)
+* [Phyton: курс для продвинутых ](./pdf/phyton_high.pdf)
+
 
 
